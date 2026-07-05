@@ -8,9 +8,9 @@
 - [] Clone repo and first commit.
 - [] New Branch, PR, and Merge.
 - [] Create issues (done)
-- [] Practice essential Linux Commands
-- [] Write backup.sh
-- [] Write setup.sh
+- [] Practice essential Linux Commands( on it )
+- [] Write backup.sh(done)
+- [] Write setup.sh(done)
 - [] Upload to a new branch and open PR
 
 ## Scripts
