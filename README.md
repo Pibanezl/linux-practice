@@ -7,6 +7,11 @@
 - [] Git config (user.name, user.email).
 - [] Clone repo and first commit.
 - [] New Branch, PR, and Merge.
+- [] Create issues (done)
+- [] Practice essential Linux Commands
+- [] Write backup.sh
+- [] Write setup.sh
+- [] Upload to a new branch and open PR
 
 ## Scripts
 - backup.sh - copy ~/projects to ~/backups with timestamp
