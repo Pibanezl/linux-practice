@@ -8,7 +8,7 @@
 - [x] Clone repo and first commit.
 - [x] New Branch, PR, and Merge.
 - [x] Create issues (done).
-- [ ] Practice essential Linux Commands( on it ).
+- [x] Practice essential Linux Commands( on it ).
 - [x] Write backup.sh(done).
 - [x] Write setup.sh(done).
 - [x] Upload to a new branch and open PR.
