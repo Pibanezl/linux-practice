@@ -3,15 +3,16 @@
 **Objective:** Linux practicing. Git, Terminal commands and scripting
 
 ## Checklist week 0
-- [ ] SSH config.
-- [ ] Git config (user.name, user.email).
-- [ ] Clone repo and first commit.
-- [ ] New Branch, PR, and Merge.
-- [ ] Create issues (done)
-- [ ] Practice essential Linux Commands( on it )
-- [ ] Write backup.sh(done)
-- [ ] Write setup.sh(done)
-- [ ] Upload to a new branch and open PR
+- [x] SSH config.
+- [x] Git config (user.name, user.email).
+- [x] Clone repo and first commit.
+- [x] New Branch, PR, and Merge.
+- [x] Create issues (done).
+- [ ] Practice essential Linux Commands( on it ).
+- [x] Write backup.sh(done).
+- [x] Write setup.sh(done).
+- [x] Upload to a new branch and open PR.
+- [ ] Close issues.
 
 ## Scripts
 - backup.sh - copy ~/projects to ~/backups with timestamp
