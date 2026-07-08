@@ -12,7 +12,7 @@
 - [x] Write backup.sh(done).
 - [x] Write setup.sh(done).
 - [x] Upload to a new branch and open PR.
-- [ ] Close issues.
+- [x] Close issues.
 
 ## Scripts
 - backup.sh - copy ~/projects to ~/backups with timestamp
