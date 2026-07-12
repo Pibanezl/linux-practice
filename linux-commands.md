@@ -42,7 +42,7 @@ Shows the path of a command.
 
 ## Block 3 - File Manipulation Commands
 
-## cp
+### cp
 Copies files or directories.
 
 ### mv
