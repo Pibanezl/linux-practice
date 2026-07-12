@@ -39,3 +39,20 @@ Shows the last lines of a file.
 
 ### wich
 Shows the path of a command.
+
+## Block 3 - File Manipulation Commands
+
+## cp
+Copies files or directories.
+
+### mv
+Moves or renames files.
+
+### rm
+Removes files or directories.
+
+### mkdir
+Creates directories.
+
+### rmdir
+Removes empty directories.
