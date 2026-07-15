@@ -56,3 +56,23 @@ Creates directories.
 
 ### rmdir
 Removes empty directories.
+
+## Block 4 - Process and System Monitoring Commands
+
+### ps
+Showing running processes.
+
+### top
+Displays processes in real time.
+
+### htop
+Improved version of top with colors and better interface.
+
+### pgrep
+Searches for processes by name.
+
+### pkill
+Terminates processes by name.
+
+### kill
+Terminates processes by PID.
