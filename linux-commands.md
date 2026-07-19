@@ -76,3 +76,14 @@ Terminates processes by name.
 
 ### kill
 Terminates processes by PID.
+
+## Block 5 - Permissions and Ownershio
+
+### chmod
+Changes file permissions (numeric or symbolic).
+
+### chown
+Changes file owner and group.
+
+### chgrp
+Changes group ownership.
