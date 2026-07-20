@@ -87,3 +87,20 @@ Changes file owner and group.
 
 ### chgrp
 Changes group ownership.
+
+## Block 6 - Search and Filter Commands
+
+### grep
+Searches for text inside files.
+
+### find
+Searches for files by name, type, size, or date.
+
+### wc
+Count lines, words, or characters.
+
+### sort
+Sort lines alphabetically or numerically.
+
+### uniq
+Removes duplicate lines and can count ocurrences.
