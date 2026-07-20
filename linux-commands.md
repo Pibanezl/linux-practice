@@ -77,6 +77,8 @@ Terminates processes by name.
 ### kill
 Terminates processes by PID.
 
+# Week 2
+
 ## Block 5 - Permissions and Ownershio
 
 ### chmod
