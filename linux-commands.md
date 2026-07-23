@@ -106,3 +106,23 @@ Sort lines alphabetically or numerically.
 
 ### uniq
 Removes duplicate lines and can count ocurrences.
+
+## Block 7 - Redirections and Pipes
+
+### >
+Redirects output to a file (overwrites existing content).
+
+### >>
+Appends outpudt to a file without overwriting.
+
+### |
+Sends output of one command as input to another.
+
+### tee
+Displays output and writes it to a file at the same time.
+
+### head
+Shows the first lines of a file (-n + number).
+
+### tail
+Shows the last lines of a file. Use `tail -f` to follow logs in real time.

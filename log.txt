@@ -1,0 +1,5 @@
+error: failed to start service.
+warning: low memory.
+error: disk full.
+info: system running
+error: failed to start service.
