@@ -126,3 +126,40 @@ Shows the first lines of a file (-n + number).
 
 ### tail
 Shows the last lines of a file. Use `tail -f` to follow logs in real time.
+
+## Block 8 - Processes, Jobs, Signal, and Services
+
+### 1. Viewing Processes
+- `ps aux` - Shows all running processes in the system.
+- `top` - Real-Time process viewer.
+- `htop` - Improved interactive process viewer (may require installation).
+
+### 2. Filtering Processes
+- `ps aux | grep <name>` - Search for processes matching a keyword.
+
+### 3. Killing Processes
+- `kill <PID>` - Sends SIGTERM (Polite shutdown).
+- `kill -9 <PID>` - Sends SIGKILL (Forcefull termination).
+
+### 4. Signals
+- **SIGTERM (15)** - Graceful shutdown request.
+- **SIGKILL (9)** - Immediate termination.
+- **SIGSTOP** - Pause a process.
+- **SIGCOUNT** - Resume a paused process.
+
+### 5. Background and foreground Jobs
+- `Ctrl + Z` - Suspend the current job.
+- `bg` - Send the suspended job to the background.
+- `jobs` - List background jobs.
+- `fg` - Bring a background job back to the foreground.
+
+### 6. Systemd Services
+- `systemctl status <service>` — check service status.
+- `systemctl start <service>` — start a service.
+- `systemctl stop <service>` — stop a service.
+- `systemctl enable <service>` — enable service autostart.
+- `systemctl disable <service>` — disable service autostart.
+
+### 7. Logs
+- `journalctl -u <service>` — view logs for a specific service.
+- `journalctl -u <service> -f` — follow logs in real time.
